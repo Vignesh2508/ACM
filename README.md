@@ -3,3 +3,4 @@ Implementation of artifical compressiblity method in C. Thanks to Tanmay agrawal
 
 # The Contour plot obtained from the cavity problem with U=1.0m/s
 
+![](Contour_plot_U.png)
