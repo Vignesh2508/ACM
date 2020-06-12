@@ -180,8 +180,8 @@ int main(void)
 
     // OUTPUT DATA
 	FILE *fout2, *fout3;
-	fout2 = fopen("UVP.plt","w+t");
-	fout3 = fopen("Central_U.plt","w+t");
+	fout2 = fopen("UVP.dat","w+t");
+	fout3 = fopen("Central_U.dat","w+t");
 
 	if ( fout2 == NULL )
 	{
